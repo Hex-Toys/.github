@@ -1,4 +1,3 @@
-https://github.com/Hex-Toys/.github/assets/68435861/80db4960-db40-46e4-a0fd-45d43f0ed4bb
 # Hex Toys 
 ## Welcome 👋
 Welcome to the Hex Toys Organization! We're a diverse and dynamic team of technology enthusiasts, innovators, and digital art connoisseurs, committed to expanding the horizons of decentralized finance (DeFi) and non-fungible tokens (NFTs).
