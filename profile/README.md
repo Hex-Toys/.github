@@ -1,4 +1,6 @@
-![hextoysloading](https://github.com/Hex-Toys/.github/assets/68435861/d74b5f3e-bdab-42d9-b47c-b661188126fe)
+<p align="center">
+  <img src="https://github.com/Hex-Toys/.github/assets/68435861/93b72429-0626-4226-8e9c-0371409a09db" />
+</p>
 
 
 # Welcome 👋
@@ -25,5 +27,7 @@ Our team, although scattered across different continents, shares a universal mor
 **Sy - Hex Toys**
 
 
+
+![hextoysloading](https://github.com/Hex-Toys/.github/assets/68435861/d74b5f3e-bdab-42d9-b47c-b661188126fe)
 
 
