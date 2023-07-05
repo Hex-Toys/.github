@@ -14,7 +14,7 @@ Our mission is to facilitate users in listing their digital artwork, collecting 
 ## 🌈 How to Contribute
 While our repositories remain private to ensure the secure and smooth operation of our services, we maintain a strong bond with our community. The spirit of collaboration and open discussion underpins our approach.
 
-We provide public access to our thorough audits and comprehensive documentation, ensuring complete transparency in our operations. Feel free to explore our Public Documentation and Audits to get a better grasp of our platform.
+We provide public access to our thorough contracts, audits & comprehensive documentation, ensuring complete transparency in our operations. Feel free to explore our Public Documentation and Audits to get a better grasp of our platform.
 
 ## 👩‍💻 Our Roadmap
 The future is exciting at Hex Toys. We have an extensive roadmap for development, introducing a range of innovative features never seen before in the DeFi space. Our upcoming initiatives will further enrich the user experience, providing more immersive and lucrative opportunities for our community. For a glimpse into our future plans, keep an eye on our Roadmap & make sure you check out the Discussions area to request new features and ask question. 
