@@ -22,7 +22,27 @@ The future is exciting at Hex Toys. We have an extensive roadmap for development
 ## 🍿 Fun Facts
 Our team, although scattered across different continents, shares a universal morning ritual: coffee ☕️ 
 
+# Contracts
 
+## AddNFTCollection
+0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3 
+
+
+## NFTFactory
+0xb8c7d9b99aeab335316803fae5fe3a0dbaca5dfe 
+
+
+## Market
+0xc16d32ecf660290c9351a9c878d0d482235be233 
+
+
+## LootBoxFactory
+0xa89cd95a9ec5955558277244b60d223fd9291789 
+
+
+.
+.
+.
 
 **Sy - Hex Toys**
 
