@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/Hex-Toys/.github/assets/68435861/93b72429-0626-4226-8e9c-0371409a09db" />
-</p>
-
 
 # Welcome 👋
 Welcome to the Hex Toys Organization! We're a diverse and dynamic team of technology enthusiasts, innovators, and digital art connoisseurs, committed to expanding the horizons of decentralized finance (DeFi) and non-fungible tokens (NFTs).
