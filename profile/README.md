@@ -1,4 +1,3 @@
-
 # Welcome 👋
 Welcome to the Hex Toys Organization! We're a diverse and dynamic team of technology enthusiasts, innovators, and digital art connoisseurs, committed to expanding the horizons of decentralized finance (DeFi) and non-fungible tokens (NFTs).
 
@@ -17,6 +16,11 @@ The future is exciting at Hex Toys. We have an extensive roadmap for development
 
 ## 🍿 Fun Facts
 Our team, although scattered across different continents, shares a universal morning ritual: coffee ☕️ 
+
+
+# Documentation
+
+<a href="https://github.com/Hex-Toys/.github">Architecture, Audits & Release Notes</a>
 
 # Contracts
 
