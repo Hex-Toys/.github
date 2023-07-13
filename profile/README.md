@@ -20,7 +20,12 @@ Our team, although scattered across different continents, shares a universal mor
 
 # Documentation
 
-<a href="https://github.com/Hex-Toys/.github">Architecture, Audits & Release Notes</a>
+<a href="https://github.com/Hex-Toys/.github">Architecture, Walkthroughs, Release Notes + More</a>
+
+# Audits 
+![consensys](https://github.com/Hex-Toys/.github/assets/68435861/edb164c9-32fd-47a9-adb3-590ab3748a2f)
+
+
 
 # Contracts
 
