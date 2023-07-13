@@ -24,30 +24,45 @@ Our team, although scattered across different continents, shares a universal mor
 
 # Contracts
 
-## AddNFTCollection
-0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3 
+
+**AddNFTCollection:**
+<a href="https://scan.pulsechain.com/address/0x8475F436F4331e1Ae6F14Bb305F8E7fa8eC764E3">0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3</a>
 
 
-## NFTFactory
-0xb8c7d9b99aeab335316803fae5fe3a0dbaca5dfe 
+**NFTFactory:**
+<a href="https://scan.pulsechain.com/address/0xb8c7d9b99aeab335316803fae5fe3a0dbaca5dfe">0xb8c7d9b99aeab335316803fae5fe3a0dbaca5dfe</a>
 
 
-## Market
-0xc16d32ecf660290c9351a9c878d0d482235be233 
+**Market:**
+<a href="https://scan.pulsechain.com/address/0xc16d32ecf660290c9351a9c878d0d482235be233">0xc16d32ecf660290c9351a9c878d0d482235be233</a>
 
 
-## LootBoxFactory
-0xa89cd95a9ec5955558277244b60d223fd9291789 
+**LootBoxFactory:**
+<a href="https://scan.pulsechain.com/address/0x8475F436F4331e1Ae6F14Bb305F8E7fa8eC764E3">0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3</a>
 
 
-.
-.
-.
-
-**Sy - Hex Toys**
+# UI/UX
 
 
 
-![hextoysloading](https://github.com/Hex-Toys/.github/assets/68435861/d74b5f3e-bdab-42d9-b47c-b661188126fe)
+
+
+<p align="center">
+  <a href="https://marketplace.hex.toys">Check Out The Marketplace</a>
+
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/68435861/253161452-809537d0-3597-4454-a499-ed13590ee819.png" />
+
+
+</p>
+
+
+
+
+
+
+
+
 
 
