@@ -46,23 +46,15 @@ Our team, although scattered across different continents, shares a universal mor
 <a href="https://scan.pulsechain.com/address/0x8475F436F4331e1Ae6F14Bb305F8E7fa8eC764E3">0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3</a>
 
 
-# UI/UX
+# Decentralized Exchange 
 
 
+<a href="https://dex.hex.toys">Dex Toys Exchange</a>
+
+## Token List 
 
 
-
-<p align="center">
-  <a href="https://marketplace.hex.toys">Check Out The Marketplace</a>
-
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68435861/253161452-809537d0-3597-4454-a499-ed13590ee819.png" />
-
-
-</p>
-
-
+https://tokenlists.org/token-list?url=https://tokens.hex.toys/token-lists/hextoys-pulse-official.json
 
 
 
