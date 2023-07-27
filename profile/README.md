@@ -1,4 +1,4 @@
-Current Version 2.0: <a href="https://github.com/Hex-Toys/.github/releases/tag/2.0">Release Notes</a>
+
 
 
 # Welcome 👋
@@ -14,20 +14,14 @@ We are proud to pioneer a unique marketplace, providing a platform for users to 
 Our mission is to facilitate users in listing their digital artwork, collecting exclusive digital collectibles, and gaining access to our premium rewards club. We envision a world where digital creativity and financial innovation intersect, and we strive to create that through our platform.
 
 ## 🌈 How to Contribute
-While our repositories remain private to ensure the secure and smooth operation of our services, we maintain a strong bond with our community. The spirit of collaboration and open discussion underpins our approach.
-
-We provide public access to our contracts, audits & comprehensive documentation, ensuring complete transparency in our operations. Feel free to explore our Public Documentation and Audits to get a better grasp of our platform.
-
-## 👩‍💻 Our Roadmap
-The future is exciting at Hex Toys. We have an extensive roadmap for development, introducing a range of innovative features never seen before in the DeFi space. Our upcoming initiatives will further enrich the user experience, providing more immersive and lucrative opportunities for our community. For a glimpse into our future plans, keep an eye on our Roadmap & make sure you check out the Discussions area to request new features and ask questions. 
-
-## 🍿 Fun Facts
-Our team, although scattered across different continents, shares a universal morning ritual: coffee ☕️ 
+While our repositories remain private to ensure the secure and smooth operation of our services, we maintain a strong bond with our community, Reach out to us on  Telegram or Twitter. 
 
 
 # Documentation
 
 <a href="https://github.com/Hex-Toys/.github">Architecture, Walkthroughs, Release Notes + More</a>
+
+# Current Version 2.0: <a href="https://github.com/Hex-Toys/.github/releases/tag/2.0">Release Notes</a>
 
 # Audits 
 ![consensys](https://github.com/Hex-Toys/.github/assets/68435861/edb164c9-32fd-47a9-adb3-590ab3748a2f)
