@@ -58,10 +58,11 @@ Our team, although scattered across different continents, shares a universal mor
 
 <a href="https://dex.hex.toys">Dex Toys Exchange</a>
 
-## Token List 
+## Token List (Tokenlist.org)
 
+<a href="https://tokenlists.org/token-list?url=https://tokens.hex.toys/token-lists/hextoys-pulse-official.json)">Default Pulse Token List</a>
 
-https://tokenlists.org/token-list?url=https://tokens.hex.toys/token-lists/hextoys-pulse-official.json
+<a href="https://tokenlists.org/token-list?url=https://tokens.hex.toys/token-lists/hextoys-pulse-extended.json">Extended PulseToken List</a>
 
 
 
