@@ -8,9 +8,6 @@ Welcome to the Hex Toys Organization! We're a diverse and dynamic team of techno
 
 ## 🙋‍♀️ About Us 
 We are proud to pioneer a unique marketplace, providing a platform for users to dive into the world of DeFi and NFTs on PulseChain.
-
-**2.1% marketplace fee, 51% community reward pool.**
-
 Our mission is to facilitate users in listing their digital artwork, collecting exclusive digital collectibles, and gaining access to our premium rewards club. We envision a world where digital creativity and financial innovation intersect, and we strive to create that through our platform.
 
 ## 🌈 How to Contribute
@@ -22,32 +19,6 @@ While our repositories remain private to ensure the secure and smooth operation 
 <a href="https://github.com/Hex-Toys/.github">Architecture, Walkthroughs, Release Notes + More</a>
 
 # Current Version 2.0: <a href="https://github.com/Hex-Toys/.github/releases/tag/2.0">Release Notes</a>
-
-# Audits 
-![consensys](https://github.com/Hex-Toys/.github/assets/68435861/edb164c9-32fd-47a9-adb3-590ab3748a2f)
-
-
-
-# Contracts
-
-
-**AddNFTCollection:**
-<a href="https://scan.pulsechain.com/address/0x8475F436F4331e1Ae6F14Bb305F8E7fa8eC764E3">0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3</a>
-
-
-**NFTFactory:**
-<a href="https://scan.pulsechain.com/address/0xb8c7d9b99aeab335316803fae5fe3a0dbaca5dfe">0xb8c7d9b99aeab335316803fae5fe3a0dbaca5dfe</a>
-
-
-**Market:**
-<a href="https://scan.pulsechain.com/address/0xc16d32ecf660290c9351a9c878d0d482235be233">0xc16d32ecf660290c9351a9c878d0d482235be233</a>
-
-
-**LootBoxFactory:**
-<a href="https://scan.pulsechain.com/address/0x8475F436F4331e1Ae6F14Bb305F8E7fa8eC764E3">0x8475f436f4331e1ae6f14bb305f8e7fa8ec764e3</a>
-
-
-# Decentralized Exchange 
 
 
 <a href="https://dex.hex.toys">Dex Toys Exchange</a>
